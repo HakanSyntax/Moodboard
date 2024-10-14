@@ -1,3 +1,3 @@
 # Moodboard
 
-![FigmaProjekt](Moodboard.pdf) 
+![FigmaProjekt](MOODBOARD.pdf) 
