@@ -1,3 +1,5 @@
-# Moodboard Onlyart App
+# Moodboard 
 
-![FigmaProjekt](moodboard.jpg) 
+**Onlyart Applikation**
+
+![FigmaProjekt](Moodboard.jpg) 
