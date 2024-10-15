@@ -1,3 +1,3 @@
-# Moodboard
+# Moodboard Onlyart App
 
-![FigmaProjekt](MOODBOARD.pdf) 
+![FigmaProjekt](moodboard.jpg) 
