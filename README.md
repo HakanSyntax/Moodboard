@@ -1,5 +1,5 @@
 # Moodboard 
 
-**Onlyart Applikation**
+**OnlyArt Applikation**
 
 ![FigmaProjekt](Moodboard.jpg) 
